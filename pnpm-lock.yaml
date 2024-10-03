@@ -17,9 +17,9 @@ importers:
 
   packages/electron:
     dependencies:
-      '@pnpm-monorepo/main':
+      '@pnpm-monorepo/frontend':
         specifier: workspace:^1.0.0
-        version: link:../main
+        version: link:../frontend
     devDependencies:
       copyfiles:
         specifier: ^2.4.1

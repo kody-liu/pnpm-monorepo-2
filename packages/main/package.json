@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@pnpm-monorepo/shared": "workspace:^1.0.0",
+    "@pnpm-monorepo/shared": "workspace",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
